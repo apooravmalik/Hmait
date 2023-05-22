@@ -1,0 +1,32 @@
+/* Variables */
+
+:root {
+  --color-primary: #44f6fd;
+  --color-accent: #fffffa;
+  --color-default: #363636;
+
+  --color-background: #242424;
+  --color-card: #1b1b1b;
+
+  --color-text: #f9f9f9;
+  --color-label: #aaaaaa;
+  --color-disabled: #888888;
+
+  --length-md1: 1rem;
+  --length-md2: 1.25rem;
+  --length-md3: 1.5rem;
+}
+
+/* Reset */
+
+body {
+  margin: 0;
+  font-family: 'Poppins', Arial, sans-serif;
+  background: var(--color-background);
+  color: var(--color-text);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  line-height: 1;
+}
