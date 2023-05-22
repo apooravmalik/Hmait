@@ -1,0 +1,93 @@
+
+body {
+    font-family: "Ubuntu";
+    
+    background: rgb(23,37,42);
+    background: linear-gradient(rgba(23,37,42,1) 25%, rgba(58,175,169,1) 88%);
+    background-attachment: fixed;
+    background-color: #3aafa9;
+  }
+  #nav {
+    background-color: #17252a;
+    padding-bottom: 0 0 1rem;
+  }
+  
+  #title {
+    background-color: #17252a;
+    color: #fff;
+  }
+  
+  #navbar-brand {
+    color: azure;
+    padding: 400px;
+   
+  }
+  
+  #nav {
+    color: azure;
+  }
+  
+  .container-fluid {
+    padding: 1.25rem 15rem;
+  }
+  .navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    position:absolute;
+    left: -50px;
+    height: 50px;
+    
+  }
+  .navbar-nav{
+    top: 12px;
+    position: relative;
+  }
+  
+  .nav-item {
+    padding: 0px 18px;
+    
+  }
+  
+  .download-button {
+    margin: 5% 3% 5% 0;
+  }
+  .title-image {
+    width: 50%;
+    transform: rotate(20deg);
+    margin-left: 28%;
+  }
+  .btn {
+    color: #def2f1;
+    font-weight: bolder;
+    text-decoration: #feffff;
+    border-radius: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    width: 90px;
+    background-color: #3aafa9;
+
+}
+.logo{
+    position: absolute;
+    width: 336px;
+    height: 68px;
+    padding: 2%;
+  }
+
+
+
+/* Hero Section */
+
+.row{
+  position: absolute;
+  text-align: center;
+  top: 160px;
+  right: 429px;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
+
+
